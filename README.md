@@ -8,7 +8,7 @@ O layout é responsivo, adaptando-se a diferentes dispositivos.
 ## Demonstrando a responsividade
 ### Macbook
 <p align="center">
-  <img width="100" scr = "CalculadoraIMC/assets/to_readme/Macbook-Air-127.0.0.1.png">
+  <img width="700" scr = "CalculadoraIMC/assets/to_readme/Macbook-Air-127.0.0.1.png">
 </p>
 teste
 
