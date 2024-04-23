@@ -10,6 +10,7 @@ O layout é responsivo, adaptando-se a diferentes dispositivos.
 <p align="center">
   <img width="100" scr = "CalculadoraIMC/assets/to_readme/Macbook-Air-127.0.0.1.png">
 </p>
+teste
 
 ### iPhone
 <p align = "center">
